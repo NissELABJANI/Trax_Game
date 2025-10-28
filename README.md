@@ -17,16 +17,16 @@ Includes turn-based logic, path validation, and dynamic visualization using Swin
 1. Clone the repository:
    ```bash
    git clone git@github.com:NissELABJANI/Trax_Game.git
-```
+   ```
 2. Navigate to the project folder:
- ```bash
-cd Trax_Game
-```
+  ```bash
+  cd Trax_Game
+  ```
 
 3. Compile and run:
-   ```bash
-javac *.java
-java Main
-```
+  ```bash
+  javac *.java
+  java Main
+  ```
 ## 📚 Author
 Developed by Nissrine Elabjani
